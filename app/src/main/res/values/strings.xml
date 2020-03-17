@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BSIC</string>
+    <string name="login">LOGIN</string>
+    <string name="password">PASSWORD</string>
+    <string name="forget_pass">forget password</string>
+    <string name="signup">SIGNUP</string>
+
+</resources>
